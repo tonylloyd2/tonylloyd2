@@ -29,6 +29,9 @@ I'll provide the full updated text for your tech stack section, which now includ
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
 
 ## Databases:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -57,9 +60,17 @@ I'll provide the full updated text for your tech stack section, which now includ
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+I'll add the requested technologies to the Networking, Frontend, and introduce a new Cybersecurity section:
 
 ## Networking
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+![NetSim](https://img.shields.io/badge/NetSim-007ACC?style=for-the-badge&logo=network&logoColor=white)
+
+## Cybersecurity:
+![Security Onion](https://img.shields.io/badge/Security%20Onion-0078D7?style=for-the-badge&logo=security&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+Would you like me to provide the full updated document with these changes, or are these section updates sufficient?
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonylloyd2&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
