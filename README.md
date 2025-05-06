@@ -58,7 +58,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-I'll add the requested technologies to the Networking, Frontend, and introduce a new Cybersecurity section:
 
 ## Networking
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
@@ -68,7 +67,6 @@ I'll add the requested technologies to the Networking, Frontend, and introduce a
 ![Security Onion](https://img.shields.io/badge/Security%20Onion-0078D7?style=for-the-badge&logo=security&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-Would you like me to provide the full updated document with these changes, or are these section updates sufficient?
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonylloyd2&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
