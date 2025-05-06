@@ -1,5 +1,3 @@
-I'll provide the full updated text for your tech stack section, which now includes Node.js and .NET Core for the backend:
-
 ## Portfolio Website
 [Click here to visit my portfolio](https://portfolio-lime-seven-66.vercel.app/)
 # 💻 Tech Stack:
